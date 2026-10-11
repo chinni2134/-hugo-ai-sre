@@ -1,0 +1,7 @@
+{
+  "name": "HUGO Command Center",
+  "id": "hugo-command-center",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"]
+}
